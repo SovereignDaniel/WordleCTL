@@ -1,0 +1,2 @@
+I created a working version of CTL wordle in using python. I tried to limit my use of AI because I felt it made me a dependent, so for this project I only used AI for limited debugging and no code generation. 
+This repo follows the CC01-licence.
